@@ -1,2 +1,2 @@
 # AdvancedNodeStarter
-A Command Line app Using Node.js
+Node.js CI (Contineous Integration using Travis)
